@@ -1,0 +1,19 @@
+#ima1{width: 50%;}
+#ima2{width: 50%;}
+
+main{background-color: rgb(255, 115, 0);
+     margin-left: 25%;
+     margin-right: 20%;}
+
+header {background-color: #ff9100;
+        border-style: dotted;
+        border-color: #ff7b00;
+        margin-left: 20%;
+        margin-right: 15%;}
+
+footer {background-color: rgb(255, 171, 61);
+        border-color: rgb(255, 153, 0);
+        border-style: double;
+        border-left: 25%;}
+
+body{background-color: rgb(29, 16, 0);}
