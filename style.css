@@ -3,7 +3,8 @@
 
 main{background-color: rgb(255, 115, 0);
      margin-left: 25%;
-     margin-right: 20%;}
+     margin-right: 20%;
+     padding-right: 25%;}
 
 header {background-color: #ff9100;
         border-style: dotted;
